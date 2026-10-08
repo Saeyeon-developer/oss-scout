@@ -1,11 +1,9 @@
+> 바퀴를 재발명하지 마세요.
+
 # OSS Scout
 
 An agent skill for Claude Code and Codex. Before you build something from scratch,
 it finds, vets and decides on existing open source.
-
-> 바퀴를 재발명하지 마세요. 새 앱이나 큰 기능을 만들기 전에, 이미 잘 만들어진
-> 오픈소스가 있는지 AI가 체계적으로 찾고, 실제 코드까지 검증한 뒤
-> 사용·포크·통합·참고·직접 개발 중 하나를 결정하도록 돕는 스킬입니다.
 
 ## Why
 
