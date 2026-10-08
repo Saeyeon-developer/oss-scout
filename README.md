@@ -1,4 +1,4 @@
-> 바퀴를 재발명하지 마세요.
+<h1 align="center">Don't reinvent the wheel.</h1>
 
 # OSS Scout
 
@@ -60,7 +60,7 @@ Copy or symlink this folder into your skills directory:
 
 The skill triggers on its own when you are about to start a new project or a
 substantial feature, or when you ask things like "is there a library for X" or
-"오픈소스 찾아줘". Clones and run logs go to `%LOCALAPPDATA%\oss-scout` on Windows
+"find me an open-source X" (Korean requests work too). Clones and run logs go to `%LOCALAPPDATA%\oss-scout` on Windows
 and `~/.cache/oss-scout` elsewhere (override with `OSS_SCOUT_HOME`).
 
 ## Layout
